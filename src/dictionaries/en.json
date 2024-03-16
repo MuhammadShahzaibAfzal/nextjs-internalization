@@ -1,0 +1,25 @@
+{
+    "navigation":{
+        "logo" : "Shahzaib Dev",
+        "home" : "Home",
+        "about" : "About Me",
+        "contact" : "Contact Me"
+    },
+    "page":{
+        "home":{
+            "title" : "Full Stack Developer | MERN & Next.js Specialist 😊",
+            "description" : "Experienced Full Stack Developer proficient in MERN stack and Next.js. Passionate about crafting scalable, user-centric web applications. Let's build something incredible together."
+        },
+        "about":{
+            "title":"About Me",
+            "description" : "I'm Muhammad Shahzaib Afzal, a Full Stack Developer specializing in the MERN stack and Next.js. With a keen eye for detail and a passion for problem-solving, I thrive on building dynamic web applications that deliver exceptional user experiences. My journey in software development has been driven by a love for innovation and a commitment to continuous learning. Outside of coding, I enjoy exploring new technologies, staying active outdoors, and immersing myself in creative pursuits. Let's collaborate to bring your ideas to life and make an impact in the digital world. Connect with me to discuss how we can work together to achieve your goals."
+        },
+        "contact":{
+            "title":"Contact Me",
+            "description" : "Thank you for considering collaboration! Please feel free to reach out to me via email, LinkedIn, or GitHub. I look forward to connecting with you and discussing potential opportunities further."
+        }
+    },
+    "footer":{
+        "text":"© 2024 Muhammad Shahzaib Afzal | Full Stack Developer"
+    }
+}
